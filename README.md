@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Breezojr
 - 👀 I’m  Typescripter
-- 🌱 I’m constantly learn more
+- 🌱 I’m constantly learning more
 - 💞️ I’m looking to collaborate on github
 - 📫 Reach me through my email breezojr@gmail.com
 <!---
